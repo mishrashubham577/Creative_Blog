@@ -15,6 +15,7 @@
 ### 3. Resume (my latest resume with Clean,precise and well structured manner)
 
 ![](https://i.imgur.com/lWHJAeT.png)
+![](https://i.imgur.com/hYJZd3A.png)
 
 ### 4. Contact (for those who get in touch)
 
