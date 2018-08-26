@@ -10,11 +10,11 @@
 
 ### 2. Blog (shows latest post on top and also hyperlinked with detail blog post)
 
-![](https://i.imgur.com/UnlPFyE.png)
+![](https://i.imgur.com/aVA9LPe.png)
 
 ### 3. Resume (my latest resume with Clean,precise and well structured manner)
 
-![](https://i.imgur.com/thk81My.png)
+![](https://i.imgur.com/lWHJAeT.png)
 
 ### 4. Contact (for those who get in touch)
 
