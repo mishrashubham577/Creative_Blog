@@ -1,6 +1,6 @@
 # Advanced-Blog
 
-## Fully responsive advanced blog based on django framework
+#### Fully responsive advanced blog based on django framework
 
 ## This project Includes following pages:
 1. Home (landing page)
