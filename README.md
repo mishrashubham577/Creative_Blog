@@ -1,4 +1,6 @@
-# Advanced-Blog
+![](https://i.imgur.com/9UetyQ3.png)
+
+# Creatiive-Blog
 
 #### Fully responsive advanced blog based on django framework
 
