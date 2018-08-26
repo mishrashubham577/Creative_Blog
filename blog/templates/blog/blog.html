@@ -1,0 +1,18 @@
+{% extends "personal/header.html" %}
+
+{% block content %}
+
+	{% for post in object_list %} 
+		<div class="post-preview">
+			<a href="/blog/{{post.id}}">
+				<h2 class="post-title">{{post.title}}</h2>
+			 	<h3 class="post-subtitle">{{post.body|safe|linebreaks}}</h3>
+			</a>
+		<p class="post-meta">Posted on {{ post.date}}</p>
+
+		</div>
+		<hr>
+
+	{% endfor %}
+
+{% endblock %}
