@@ -22,3 +22,5 @@
 ![](https://i.imgur.com/9mNU63a.png)
 
 
+## Check out my "Advanced Responsive Django Music App"
+link: https://github.com/mishub/muzy
